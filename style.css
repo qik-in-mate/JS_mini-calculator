@@ -1,0 +1,19 @@
+body {
+  margin: 0 auto;
+  padding: 20px;
+}
+p {
+  background-color: #00BCD4;
+  opacity: 0.8;
+}
+button {
+  cursor: pointer;
+  padding: 5px 20px;
+  margin: 5px;
+}
+.container {
+  width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
